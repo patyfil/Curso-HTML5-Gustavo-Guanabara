@@ -1,6 +1,6 @@
 # Curso de HTML5, CSS3 e JavaScript - Gustavo Guanabara - Curso em Vídeo
 
-[veja o site pronto aqui]()
+## [Veja o site pronto aqui](https://google-glass-gustavo-guanabara.netlify.app/)
 
 https://www.cursoemvideo.com/curso/html5/
 
