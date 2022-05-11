@@ -6,7 +6,7 @@ https://www.cursoemvideo.com/curso/html5/
 
 Aprenda HTML5, CSS3 e JavaScript enquanto monta um site completo com essas tecnologias.  
 
-<img src="imagens/mascote.png" align="right" width="300">
+<img src="_imagens/mascote.png" align="right" width="300">
 
 # Curso de HTML5 e CSS3
 
